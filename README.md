@@ -13,8 +13,8 @@ git rm -r file.txt
 
 # LOCAL REPO
 
-git commit -m "meu commit"
-git coomit -a (Daí abre o editor de texto e você faz o comentário)
+* git commit -m "meu commit"
+* git coomit -a (Daí abre o editor de texto e você faz o comentário)
 
 # REMOTE REPO
 
