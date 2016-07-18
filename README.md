@@ -2,7 +2,7 @@
 
 git pull origin master (se você não está numa branch)
 
-# HEAD
+## HEAD
 
 * Adicionar arquivos:
 git add file.txt
@@ -11,11 +11,15 @@ git add .
 * Remover arquivos:
 git rm -r file.txt
 
-# LOCAL REPO
+## LOCAL REPO
 
 * git commit -m "meu commit"
 * git coomit -a (Daí abre o editor de texto e você faz o comentário)
 
-# REMOTE REPO
+## REMOTE REPO
 
 git push origin master (se você não está numa branch)
+
+## Referência
+
+https://github.com/iluwatar/java-design-patterns
