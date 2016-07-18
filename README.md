@@ -1,4 +1,4 @@
-# designPatterns
+# Harry Potter Design Patterns
 
 git pull origin master (se você não está numa branch)
 
