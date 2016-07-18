@@ -12,17 +12,16 @@ O problema é otimizar a implementação.
 Criamos interfaces (Magia.py, EducFisica.py e Historia.py) para as matérias do mesmo tipo.
 Apenas na contrução da grade é que decidimos quais matérias pegar.
 
-Disciplina.py 
-^
-Magia.py| EducFisica.py | Historia.py
-
-Trevas	| Jogo		| Leitura
-Mutação	| Luta		| Campo
-Feitiço |
+#### Disciplina.py 
+#### ^
+#### Magia.py| EducFisica.py | Historia.py
+#### Trevas	| Jogo	| Leitura
+#### Mutação	| Luta	| Campo
+#### Feitiço	|
 
 Exemplos de grade:
-Grade1(Trevas, Luta, Campo)
-Grade2(Feitiço, Luta, Leitura)
-...
+* Grade1(Trevas, Luta, Campo)
+* Grade2(Feitiço, Luta, Leitura)
+
 
 ![alt text](https://github.com/Vinicoreia/designPatterns/blob/master/etc/Abstract_Factory_example.png "Abstract Factory")
