@@ -1,2 +1,2 @@
 
-![alt text](./etc/Composite_example.png "Composite")
+![alt text](https://github.com/Vinicoreia/designPatterns/blob/master/etc/Composite_example.png "Composite")
