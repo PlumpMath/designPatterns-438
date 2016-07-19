@@ -7,7 +7,7 @@ Queremos emitir solicitações para um objeto sem precisar saber exatamente como
 ## Solução
 
 Command:
-* Encapslua a solicitação em forma de objeto, permitindo a parametrização dos clientes com várias solicitações diferentes
+* Encapsula a solicitação em forma de objeto, permitindo a parametrização dos clientes com várias solicitações diferentes
 * Uma solicitação pode ser feita, refeita e desfeita, pois é possível armazenar sua ordem de execução (i.e. usando pilha)
 <br />
 Fazemos cada feitiço ser uma classe que executa de fato a magia. 
