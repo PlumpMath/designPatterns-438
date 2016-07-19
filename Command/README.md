@@ -9,6 +9,7 @@ Queremos emitir solicitações para um objeto sem precisar saber exatamente como
 Command:
 * Encapsua a solicitação em forma de objeto, permitindo a parametrização dos clientes com várias solicitações diferentes
 * Uma solicitação podem ser feita, refeita e desfeita, pois é possível armazenas sua ordem de execução (i.e. usando pilha)
+<br />
 Fazemos cada feitiço ser uma classe que executa de fato a magia. 
 
 
