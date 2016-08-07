@@ -5,7 +5,6 @@ class FilhoTrouxa(metaclass = ABCMeta):
     @abstractmethod
     def brincar(self):
         pass
-
     @abstractmethod
     def estudar(self):
         pass
@@ -18,7 +17,6 @@ class FilhoBruxo(object):
 
 # Se FilhoSangueRuim for instanciado ele usará os métodos do adaptee (metodos de filhos bruxos) e não os metodos para humanos normais
 class FilhoSangueRuim(FilhoTrouxa, FilhoBruxo):#python permite herança multipla
-
     def brincar(self):
         self.voar()
     def estudar(self):
